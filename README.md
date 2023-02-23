@@ -76,7 +76,7 @@ Under Networking, It should have automatically created a Virtual Network, defaul
 Finally, once the validation passed, click create to create the Virtual Machine.
 </p>
 <br />
-<img src="https://i.imgur.com/qjhE9BY.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/qkZW6Lw.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
 After Deployment is complete, click Go To Resources or type in Resource Group on the search bar to view the Virtual Machine. CONGRATULATIONS! You now have created your first Virtual Machine in Azure!
