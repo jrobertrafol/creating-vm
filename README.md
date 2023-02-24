@@ -100,9 +100,9 @@ Finally, once the validation passed, click create to create the Virtual Machine.
 <img src="https://i.imgur.com/WQ9HAkI.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-<img src="https://i.imgur.com/jEqpDvk.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/HiGFXk3.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-After deployment is complete, click Go To Resources or type in Resource Group on the search bar to view the Virtual Machine. CONGRATULATIONS! You now have created your first Virtual Machine in Azure!
+After deployment is complete, click Go To Resource or type in Virtual Machine on the search bar to view the Virtual Machine you just created. CONGRATULATIONS! You now have created your first Virtual Machine in Azure!
 </p>
 <br />
